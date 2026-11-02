@@ -10,3 +10,10 @@ yarn-debug.log*
 pnpm-debug.log*
 .env*
 !.env.example
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.next/
